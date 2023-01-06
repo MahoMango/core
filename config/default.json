@@ -1,0 +1,6 @@
+{
+    "system":{
+        "corsDomain": ["https://qiuye.mooo.com", "http://localhost:8080"],
+        "port": "8888"
+    }
+}
